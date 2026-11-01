@@ -1,0 +1,14 @@
+# Kaggle competition data (do not commit — download from the competition page)
+data/
+*.csv
+!submissions/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
